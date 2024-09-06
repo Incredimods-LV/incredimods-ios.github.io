@@ -1,7 +1,7 @@
 [
     {
         "name": "Runners",
-        "webapp": "https://incredimods.github.io/Runners",
+        "webapp": "https://incredimods-ios.github.io/Runners",
         "availability": "playable",
         "names": ["runners"]
     }
